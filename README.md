@@ -13,7 +13,7 @@ I am a Software Engineering student focused on building efficient, scalable, and
 
 #### 🎯 Enterprise Gym Management System – PowerLab
 
-Date: October 2025
+Date: September 2025
 *   **Tech Stack:** `C++`
 
 Designed and implemented a command-line administrative software solution in C++ to manage operations across a commercial gym chain, focusing on dynamic memory efficiency and object relations.
