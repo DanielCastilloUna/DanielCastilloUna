@@ -1,17 +1,17 @@
 # I'm Daniel Castillo, welcome to my Portfolio 
 
-### 🧑‍💻 About Me
+### 
 I am a Software Engineering student focused on building efficient, scalable, and user-centric applications.
 
-* 🎓 Currently studying at: Universidad Nacional
-* ⚙️ Tech Stack: `Python`, `JavaScript`, `SQL`, `Git`, `C++`
-* 📈 Areas of Interest: Backend Development, Cloud Computing, Web Development, Systems of Information
+* Currently studying at: Universidad Nacional
+* Tech Stack: `Python`, `JavaScript`, `SQL`, `Git`, `C++`
+* Areas of Interest: Backend Development, Cloud Computing, Web Development, Systems of Information
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
-#### 🎯 Enterprise Gym Management System – PowerLab
+#### Enterprise Gym Management System – PowerLab
 
 Date: September 2025
 *   **Tech Stack:** `C++`
@@ -41,31 +41,10 @@ Key Technical Achievements:
 
 Technologies used: C++, OOP, Linked Lists, Dynamic Arrays, Memory Management, Git.
 
-*   **Repository:** [🔗 View Code](link-to-your-project-later)
-
-
-Date: June 2026
-
-#### 🎯 Object-Oriented Adventure and Dungeon Simulation Engine
-*   **Description:** [Brief explanation of the project or your role if it was a team project].
-*   **Tech Stack:** `C++`
-
-*   Engineered a text-based, file-driven simulation engine in C++ capable of modeling complex dynamic worlds, entity interactions, and real-time state changes based on architectural design patterns.
-
-Key Technical Achievements:
-- Applied advanced Object-Oriented Design (OOD) concepts, including inheritance, polymorphism, generic programming, iterators, and operator overloading.
-- Implemented file I/O operations to parse structural text files for world initialization and designed automated output logs for simulation auditing.
-- Developed robust error-handling mechanisms using custom C++ exceptions to guarantee application stability.
-- Practiced software engineering design patterns to build a scalable and highly decoupled simulation architecture.
-
-Technologies used: C++, OOP, Polymorphism, File I/O, Design Patterns, Exception Handling.
-
-*   **Repository:** [🔗 View Code](link-to-your-project-later)
-
-
+*   **Repository:** [🔗 View Code](link-to-your-project-later) I need to create this repository later
 
 ---
 
-### 📬 Let's Connect!
-* 💼 LinkedIn: https://www.linkedin.com/in/daniel-castillo-51abb0430/
-* 📧 Email: daniel.castillo.dev10@gmail.com
+### My contact:
+* LinkedIn: https://www.linkedin.com/in/daniel-castillo-51abb0430/
+* Email: daniel.castillo.dev10@gmail.com
