@@ -5,7 +5,7 @@
 I build software on two fronts. In **C++** I write object-oriented systems: design patterns, my own algorithms, careful memory management and layered architecture. On the **web** I build fast, accessible sites for real clients with Astro and JavaScript. I enjoy turning a messy real-world problem into a clean, well-documented solution.
 
 - 🏰 Founder of **CastleGT**, my web development brand, building websites for local businesses
-- 🌎 Currently building the official website of **Viajando Costa Rica**, a travel brand followed by **100K+ people on TikTok**
+- 🌎 Currently building the official website of **Viajando Costa Rica**, a travel brand with **80.6K followers on TikTok**
 - 🎓 Studying Information Systems Engineering at **UNA**, Costa Rica
 - 🌱 Next up: a data-structures library built for real use, plus more backend and cloud work
 - 📫 [LinkedIn](https://www.linkedin.com/in/daniel-castillo-51abb0430/) · daniel.castillo.dev10@gmail.com
@@ -46,7 +46,7 @@ I build software on two fronts. In **C++** I write object-oriented systems: desi
 ### 🌎 Viajando Costa Rica: official website · *in development*
 **Client project by CastleGT** · Astro · JavaScript · GSAP · d3-geo · Cloudflare
 
-The official site for a Costa Rican travel brand that offers group and private tours, lodging and real estate. It will be featured to the brand's TikTok audience of 100K+ followers.
+The official site for a Costa Rican travel brand that offers group and private tours, lodging and real estate. It will be featured to the brand's 80.6K followers on TikTok.
 
 - **Interactive 3D-style globe** built with d3-geo (orthographic projection): it rotates, pauses on hover or drag, and flies to each destination to open its details card
 - **WhatsApp-first conversion:** every tour and service has its own prefilled message, plus a trip **quote builder**
