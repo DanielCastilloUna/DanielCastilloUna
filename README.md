@@ -8,7 +8,7 @@ I build software on two fronts. In **C++** I write object-oriented systems: desi
 - 🌎 Currently building the official website of **Viajando Costa Rica**, a travel brand with **80.6K followers on TikTok**
 - 🎓 Studying Information Systems Engineering at **UNA**, Costa Rica
 - 🌱 Next up: a data-structures library built for real use, plus more backend and cloud work
-- 📫 [LinkedIn](https://www.linkedin.com/in/daniel-castillo-51abb0430/) · daniel.castillo.dev10@gmail.com
+- 📫 [LinkedIn](https://www.linkedin.com/in/daniel-castillo-jimenez/) · daniel.castillo.dev10@gmail.com
 
 ---
 
