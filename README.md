@@ -1,12 +1,12 @@
 # Hi, I'm Daniel Castillo 👋
 
-**Systems Engineering student at the Universidad Nacional de Costa Rica (UNA)** · Software & Web Developer
+**Information Systems Engineering student at the Universidad Nacional de Costa Rica (UNA)** · Software & Web Developer
 
 I build software on two fronts. In **C++** I write object-oriented systems: design patterns, my own algorithms, careful memory management and layered architecture. On the **web** I build fast, accessible sites for real clients with Astro and JavaScript. I enjoy turning a messy real-world problem into a clean, well-documented solution.
 
 - 🏰 Founder of **CastleGT**, my web development brand, building websites for local businesses
 - 🌎 Currently building the official website of **Viajando Costa Rica**, a travel brand followed by **100K+ people on TikTok**
-- 🎓 Studying Systems Engineering at **UNA**, Costa Rica
+- 🎓 Studying Information Systems Engineering at **UNA**, Costa Rica
 - 🌱 Next up: a data-structures library built for real use, plus more backend and cloud work
 - 📫 [LinkedIn](https://www.linkedin.com/in/daniel-castillo-51abb0430/) · daniel.castillo.dev10@gmail.com
 
